@@ -6,4 +6,4 @@ Jinja2==2.11.3
 MarkupSafe==0.23
 PyMySQL==0.10.0
 Werkzeug==0.15.5
-wheel==0.24.0
+wheel==0.38.1
